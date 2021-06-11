@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "experimentalStudio": true,
+  "env": {
+    "celtics": "Boston Celtics"
+  },
+  "video": false
+}
