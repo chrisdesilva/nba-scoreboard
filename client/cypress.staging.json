@@ -1,7 +1,0 @@
-{
-  "baseUrl": "http://mystagingsite.com",
-  "experimentalStudio": true,
-  "env": {
-    "celtics": "Boston Celtics"
-  }
-}
