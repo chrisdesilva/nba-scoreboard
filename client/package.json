@@ -22,7 +22,7 @@
     "build:style": "tailwind build src/styles/index.css -o src/styles/tailwind.css",
     "start": "npm run build:style && react-scripts start",
     "build": "react-scripts build",
-    "test": "cypress open",
+    "test": "cypress run",
     "test-qa": "cypress open --config-file ./cypress.staging.json",
     "eject": "react-scripts eject"
   },
