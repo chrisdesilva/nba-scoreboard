@@ -23,6 +23,7 @@
     "start": "npm run build:style && react-scripts start",
     "build": "react-scripts build",
     "test": "cypress open",
+    "test-qa": "cypress open --config-file ./cypress.staging.json",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
